@@ -1,4 +1,4 @@
-# adk-slides (PYTHON
+# adk-slides (PYTHON)
 Leveraging Google ADK to automate creation of Google Slides for TAMUhack. An ADK agent that restyles a target Google Slides deck to match one or more reference decks.
 
 
@@ -69,4 +69,3 @@ adk-slidestyles/
 
 ## License
 MIT
-"""
